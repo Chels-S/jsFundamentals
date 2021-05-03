@@ -18,6 +18,9 @@
 // let myName= 'Eric';
 // console.log(randomVariable);
 
+
+
+
 b() 
 
 function b() {

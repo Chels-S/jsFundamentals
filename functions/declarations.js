@@ -21,3 +21,4 @@ Key difference:
     - declaration gets hoisted
     - expression does not 
 */
+
